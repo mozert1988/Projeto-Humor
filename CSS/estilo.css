@@ -1,0 +1,62 @@
+h1{
+    color: black;
+    text-align: center;
+}
+
+h3{
+    color: black;
+    
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    border: 10x red
+    padding: 20px 10 px;
+    border-radius: 15px;
+    background-color: burlywood;
+    
+}
+
+a:hover{
+    color: black;
+    background: lightblue;
+
+}
+
+button{
+    text-align: center ;
+
+}
+
+img{
+    height:300px;
+    text-align: center;
+}
+
+header{
+    background-color:white;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 300px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+
+body{
+    background-color: white;
+}
+
+main{
+    background-color: white;
+}
+
+#sessao1{
+    display: flex;
+}
+
+#btn-txt2{
+    text-align: center ;
+}
